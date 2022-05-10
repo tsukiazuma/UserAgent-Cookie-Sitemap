@@ -4,12 +4,12 @@
 # Mục lục:
 1. [Khái niệm](#1)
 2. [Dùng trong HTTP](#2)
-   2.1. [Định dạng cho trình duyệt web do con người vận hành](#3)
-   2.2. [Định dạng cho các tác nhân tự động (bot)](#4)
-   2.3. [Giả mạo tác nhân người dùng](#5)
-   2.4. [Phát hiện tác nhân người dùng](#6)
-   2.5. [Ký hiệu độ mạnh mã hóa](#7)
-   2.6. [Ngừng sử dụng tiêu đề tác nhân người dùng](#8) 
+   1. [Định dạng cho trình duyệt web do con người vận hành](#3)
+   2. [Định dạng cho các tác nhân tự động (bot)](#4)
+   3. [Giả mạo tác nhân người dùng](#5)
+   4. [Phát hiện tác nhân người dùng](#6)
+   5. [Ký hiệu độ mạnh mã hóa](#7)
+   6. [Ngừng sử dụng tiêu đề tác nhân người dùng](#8) 
 
 ## Khái niệm:<a name='1'></a>
 - Trong máy tính, tác nhân người dùng là các phần mềm, hoạt động thay mặt cho người dùng, phần mềm này "truy xuất, hiển thị và tạo điều kiện cho người dùng cuối tương tác với nội dung Web". Do đó, tác nhân người dùng là một loại tác nhân phần mềm đặc biệt.
